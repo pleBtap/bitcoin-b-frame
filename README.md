@@ -3,6 +3,9 @@
 A parametric, standing Bitcoin "B" frame — customizable CAD model for 3D printing and manufacturing.
 
 ![Preview](assets/preview.png)
+## Real World Photo
+
+![Printed Bitcoin B Frame](assets/bitcoin-b-frame-printed.jpg)
 
 ## What is this?
 
